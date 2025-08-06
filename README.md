@@ -1,13 +1,28 @@
-## 👋 Hi, I'm Andrew — a writer and software engineer
+## 👋 Hi, I'm Andrew — a writer and software engineer with a strong focus on modern full-stack development, React ecosystems, and intuitive user experiences. I believe good software feels like poetry: structured, expressive, and intentional.
 
-I blend creativity and code to build thoughtful, user-focused software and tell compelling stories.  
-I’m currently working on projects with React, TypeScript, AWS CDK, and a keyboard that’s seen better days.
-
-- 💻 Mid-level full-stack dev focused on **React**, **Node.js**, and **cloud-first architecture**
-- 📚 Memoir-in-progress + occasional literary rabbit holes
-- 🧭 Travelling Europe and the world, exploring stories, and debugging life one bug at a time
+- 💻 Mid-level full-stack dev focused on **React**, **Next.js" and **Node.js*
 
 > "Code is just another form of storytelling."
+>
+🔧 Currently working with:
+- Next.js, React, TypeScript
+- Contentful, Stripe, Resend
+- Node.js, Prisma, PostgreSQL
+- CI/CD & Cloud: Vercel, AWS CDK, GitHub Actions
+
+💡 Things I value:
+- Accessibility-first UI design
+- Clear, maintainable code
+- Building tools that empower creatives
+
+🌍 Based in London, working with clients across Europe and the UK  
+📚 Writing a memoir and editing essays in my spare time  
+🏗️ Always learning, always iterating — on code and life
+🧭 Travelling Europe and the world, exploring stories, and debugging life one bug at a time
+
+📬 Let’s connect: [LinkedIn](https://linkedin.com/in/andrewdonnelly93) 
+
+
 
 ---
 
