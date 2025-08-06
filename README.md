@@ -1,24 +1,34 @@
 ## 👋 Hi, I'm Andrew — a writer and software engineer with a strong focus on modern full-stack development, React ecosystems, and intuitive user experiences. I believe good software feels like poetry: structured, expressive, and intentional.
 
-- 💻 Mid-level full-stack dev focused on **React**, **Next.js** and **Node.js**
+💻 Mid-level full-stack dev focused on React, Next.js, and Node.js
+
+🌍 Based in London, working with clients across Europe and the UK
+
+📚 Writing a memoir and editing essays in my spare time
+
+🧭 Travelling Europe and the world, exploring stories, and debugging life one bug at a time
+
+🏗️ Always learning, always iterating — on code and life
 
 > "Code is just another form of storytelling."
 >
-🔧 Currently working with:
-- Next.js, React, TypeScript
-- Contentful, Stripe, Resend
-- Node.js, Prisma, PostgreSQL
-- CI/CD & Cloud: Vercel, AWS CDK, GitHub Actions
+🔧 Tech Stack
+
+Frontend: Next.js, React, TypeScript
+
+Backend: Node.js, Prisma, PostgreSQL
+
+Tools: Stripe, Contentful, Resend
+
+DevOps: Vercel, AWS CDK, GitHub Actions
 
 💡 Things I value:
 - Accessibility-first UI design
 - Clear, maintainable code
 - Building tools that empower creatives
 
-🌍 Based in London, working with clients across Europe and the UK  
-📚 Writing a memoir and editing essays in my spare time  
-🏗️ Always learning, always iterating — on code and life
-🧭 Travelling Europe and the world, exploring stories, and debugging life one bug at a time
+
+
 
 📬 Let’s connect: [LinkedIn](https://linkedin.com/in/andrewdonnelly93) 
 
@@ -38,3 +48,5 @@
 ### 🌟 Notable Projects
 
 - 🎨 [Artist Portfolio Site](https://www.davidmceweninternational.ie/) – Next.js + CMS + Stripe Payments
+
+
