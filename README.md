@@ -13,8 +13,8 @@ I’m currently working on projects with React, TypeScript, AWS CDK, and a keybo
 
 ### 📈 GitHub Stats
 
-![Andrew’s GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewdonnelly&show_icons=true&theme=default&hide=stars,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdonnelly&layout=compact&theme=default)
+![Andrew’s GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewdonnelly93&show_icons=true&theme=default&hide=stars,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdonnelly93&layout=compact&theme=default)
 
 ### 🧠 Contribution Graph
 
