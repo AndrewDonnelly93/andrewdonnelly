@@ -39,7 +39,7 @@ DevOps: Vercel, AWS CDK, GitHub Actions
 ### 📈 GitHub Stats
 
 ![Andrew’s GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewdonnelly93&show_icons=true&theme=default&hide=stars,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdonnelly93&layout=compact&v=2&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdonnelly93&layout=compact&v=3&theme=default)
 
 ### 🧠 Contribution Graph
 
