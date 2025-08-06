@@ -22,4 +22,4 @@ I’m currently working on projects with React, TypeScript, AWS CDK, and a keybo
 
 ### 🌟 Notable Projects
 
-- 🎨 [Artist Portfolio Site](https://www.davidmceweninternational.ie/)) – Next.js + CMS + Stripe Payments
+- 🎨 [Artist Portfolio Site](https://www.davidmceweninternational.ie/) – Next.js + CMS + Stripe Payments
