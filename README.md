@@ -2,7 +2,7 @@
 
 💻 Full-stack software engineer focused on React, Next.js, and Node.js
 
-🌍 Based in London, working with clients across Europe and the UK
+🌍 Currently based in Ireland, actively seeking opportunities in London and open to relocation or remote work. I am working with clients across Europe and the UK
 
 📚 Writing a memoir and editing essays in my spare time
 
