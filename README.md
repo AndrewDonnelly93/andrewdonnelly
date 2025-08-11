@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Andrew — a writer and software engineer with a strong focus on modern full-stack development, React ecosystems, and intuitive user experiences. I believe good software feels like poetry: structured, expressive, and intentional.
 
-💻 Mid-level full-stack dev focused on React, Next.js, and Node.js
+💻 Full-stack software engineer focused on React, Next.js, and Node.js
 
 🌍 Based in London, working with clients across Europe and the UK
 
